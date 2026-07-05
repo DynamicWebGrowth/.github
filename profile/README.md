@@ -13,15 +13,14 @@ Dynamic Web Growth is the personal brand of a full-stack web developer focused o
 ## What I do
 
 - 🌐 **Web development** — responsive, accessible websites
-- - ⚙️ **Full-stack applications** — front-end and back-end
-  - - 🚀 **Performance & optimization** — fast-loading, SEO-friendly builds
-    - - 🛠️ **Maintenance & support** — ongoing improvements and fixes
-     
-      - ## Tech I work with
-     
-      - `JavaScript` · `TypeScript` · `PHP / Laravel` · `HTML` · `CSS` · `MySQL`
-     
-      - ## Get in touch
-     
-      - - 💼 Open to freelance and collaboration opportunities
-        - 
+- ⚙️ **Full-stack applications** — front-end and back-end
+- 🚀 **Performance & optimization** — fast-loading, SEO-friendly builds
+- 🛠️ **Maintenance & support** — ongoing improvements and fixes
+
+## Tech I work with
+
+`JavaScript` · `TypeScript` · `PHP / Laravel` · `HTML` · `CSS` · `MySQL`
+
+## Get in touch
+
+- 💼 Open to freelance and collaboration opportunities
