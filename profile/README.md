@@ -1,26 +1,42 @@
-# Dynamic Web Growth
+# Vishvas Upadhyay
 
-**Full-stack web development — modern, high-performance websites and web applications.**
+**Associate Technical Lead · Backend Engineer**
+Shopify & E-commerce Expert · PHP · Laravel · Symfony · Go · AWS · Docker
 
-📍 Based in Mumbai, India
+📍 India · 💼 Open to opportunities & freelance work
 
 ---
 
 ## About
 
-Dynamic Web Growth is the personal brand of a full-stack web developer focused on building fast, reliable, and maintainable web experiences — from marketing sites and portfolios to complete web applications.
+Backend engineer with 5+ years of experience building scalable, high-performance systems for enterprise ITSM, intelligent document processing, and multi-marketplace e-commerce. I work mainly in PHP 8 (Symfony, Laravel) alongside Go, AWS, Docker, and PostgreSQL — and I like owning problems end to end, from API latency tuning and event-driven services to OCR/NER pipelines and zero-downtime CI/CD.
 
 ## What I do
 
-- 🌐 **Web development** — responsive, accessible websites
-- ⚙️ **Full-stack applications** — front-end and back-end
-- 🚀 **Performance & optimization** — fast-loading, SEO-friendly builds
-- 🛠️ **Maintenance & support** — ongoing improvements and fixes
+- ⚙️ **Backend engineering** — scalable APIs, event-driven & microservice architectures
+- 🛒 **Shopify & e-commerce** — multi-marketplace integrations (Shopify, Magento, WooCommerce, Etsy, Walmart, and more)
+- 📄 **Intelligent document processing** — OCR (PaddleOCR), NER, metadata extraction pipelines
+- ☁️ **Cloud & DevOps** — AWS (SQS, Lambda, EC2, S3), Docker, GitHub Actions, zero-downtime deployments
+- 👥 **Technical leadership** — leading distributed squads across backend, mobile, QA & design
+
+## Highlights
+
+- Scaled an enterprise ITSM platform to 10,000+ concurrent users with sub-second response times
+- Cut API latency ~40% and infrastructure costs ~60% through caching, indexing & containerization
+- Shipped 8 production marketplace apps serving 10,000+ merchants at 99.9% uptime
+- Kept 1M+ product listings in sync across six global marketplaces via event-driven sync
 
 ## Tech I work with
 
-`JavaScript` · `TypeScript` · `PHP / Laravel` · `HTML` · `CSS` · `MySQL`
+**Backend:** `PHP 8` · `Symfony` · `Laravel` · `Go` · `Node.js` · `Python`
+
+**Databases:** `MySQL` · `PostgreSQL` · `MongoDB` · `Redis`
+
+**Cloud & DevOps:** `AWS` · `Docker` · `GitHub Actions` · `Nginx` · `CI/CD`
+
+**Architecture:** `Microservices` · `Event-driven` · `REST` · `GraphQL` · `WebSocket`
 
 ## Get in touch
 
-- 💼 Open to freelance and collaboration opportunities
+- 📧 vishvasupadhyay5252@gmail.com
+- [LinkedIn](https://linkedin.com/in/vishvasupadhyay)
